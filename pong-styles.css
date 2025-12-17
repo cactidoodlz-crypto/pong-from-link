@@ -15,6 +15,7 @@ body {
   position: absolute;
   background-image: url("stickbug gif.gif");
   background-size: cover;
+  <img src="stickbug gif.gif" alt="stickbig dancing">
 }
 
 #left-paddle {
