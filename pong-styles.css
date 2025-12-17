@@ -27,8 +27,8 @@ body {
 #right-paddle {
   background-color: pink;
   right: 10px;
- 
-  
+  height: 25px;
+   
 }
 
 #instructions {
